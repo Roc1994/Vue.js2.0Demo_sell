@@ -14,8 +14,6 @@ Use Vue.js2.0 实现构建高仿饿了么
 ### 移动端演示
 扫二维码在手机上查看效果更好
 
-<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
-
 <img src="http://qr.api.cli.im/qr?data=https%253A%252F%252Fsimonzhangiter.github.io%252FVueDemo_Sell_Eleme%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=6ff8394723313ea618fdc7c6f46fbb49" width=25%>
 
 
