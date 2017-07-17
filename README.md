@@ -1,6 +1,6 @@
 # Vue.js2.0Demo_sell
 Use Vue.js2.0 实现构建高仿饿了么
-> 一直对vue很感兴趣，最近使用vue2.0开发了高仿饿了么点餐系统来练练手，不得不说vue真是一个很不错的框架，但是也遇到过一些坑，在这里和大家分享一下
+> 一直对vue很感兴趣，最近使用vue2.0高仿饿了么点餐系统来练练手，不得不说vue真是一个很不错的框架，但是也遇到过一些坑，在这里和大家分享一下
 
 # 饿了么点餐系统
 
@@ -15,6 +15,8 @@ Use Vue.js2.0 实现构建高仿饿了么
 扫二维码在手机上查看效果更好
 
 <img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
+
+<img src="http://qr.api.cli.im/qr?data=https%253A%252F%252Fsimonzhangiter.github.io%252FVueDemo_Sell_Eleme%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=6ff8394723313ea618fdc7c6f46fbb49" width=25%>
 
 
 ## 组件
